@@ -1,0 +1,1 @@
+This project uses churn data for an e-commerce company to make predictions on whether or not a customer has continued their subscription. A Tableau dashboard using this data can be found here: https://public.tableau.com/app/profile/ethan.chu2920/viz/ECommerceChurnandRevenue/Dashboard1?publish=yes
